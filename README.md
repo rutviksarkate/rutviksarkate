@@ -21,10 +21,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansharmacodes" alt="roshansharmacodes" /></a> </p>
-
-
-
 - 🔭 I’m currently working with [ICICI Prudential](https://www.iciciprulife.com/)
 
 - 🌱 I’m currently learning **NextJS**
