@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm <a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="_blank" style="color:#0077B5;">Pushpendra Shrivastav</a> 👋</h1>
+<h1 align="left">👋 Hello, I'm <a href="https://www.linkedin.com/in/rutvik-sarkate-364927214/" target="_blank" style="color:#0077B5;">Rutvik Sarkate</a> 👋</h1>
 <h3 align="left">A passionate Full Stack Developer from India <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png"></h3>
 
 <img src="https://c.tenor.com/2fXbn6Xtt0UAAAAd/tenor.gif" width="400px" align="center"/>
@@ -6,9 +6,9 @@
 
 <h2><u>Brief About Me</u></h2>
 <p>✅ I have developed 3+ live applications for major companies, including ICICI Prudential Life Insurance.</p>
-<p>✅ I have 3.5 years of experience in Development and Project Leadership.</p>
+<p>✅ I have 2 years of experience in Development and Project Leadership.</p>
 <p>✅ My primary tech stack includes HTML, JavaScript, CSS (Less/Sass), Tailwind CSS, Bootstrap, jQuery, ReactJS, Next.js, NodeJS, Express.js, MongoDB, and SQL.</p>
-<p>✅ To download my resume, <a href="https://drive.google.com/file/d/1h1ZwMyY3k0spIu53T7ifFahrmf-0wpZE/view?usp=drive_link">click here</a>.</p>
+<p>✅ To download my resume, <a href="https://drive.google.com/file/d/14knSbh2aRvgyryDNgvqKFW2fVOJVvDcT/view?usp=sharing">click here</a>.</p>
 <p>✅ I am seeking a role where I can contribute my development skills to building real-world products.</p>
 
 
@@ -33,12 +33,12 @@
 
 - 💬 Ask me about **Product Development**
 
-- 📫 How to reach me **shrivastavsumit15@gmail.com**
+- 📫 How to reach me **rutviksarkate0912@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pushpendra-shrivastav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshancodes/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rutvik-sarkate-364927214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutvik-sarkate-364927214/" height="30" width="40" /></a>
 </p>
 
 
